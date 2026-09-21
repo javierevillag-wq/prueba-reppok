@@ -1,6 +1,10 @@
 /**
-* class for testing git
-* @author Javi
+* Class for data
+* @teo
+*
 */
-public class Data{
+public class Data(){
+	public static void main(){
+		int uno = 1;
+	}
 }
